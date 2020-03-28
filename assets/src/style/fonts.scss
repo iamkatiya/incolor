@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "MontserratMedium";
+  src: url("../fonts/Montserrat-Medium.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MontserratBold";
+  src: url("../fonts/Montserrat-Bold.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "GilroyMedium";
+  src: url("../fonts/Gilroy-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "GilroySemibold";
+  src: url("../fonts/Gilroy-SemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "GilroyLight";
+  src: url("../fonts/Gilroy-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+p,h2,h3 {
+  margin-bottom: 0;
+  letter-spacing: -0.015em;
+}
+.text-bold {
+  font-family: MontserratBold, sans-serif;
+}
+.text-semibold {
+  font-family: GilroySemibold, sans-serif;
+}
+.text-medium {
+  font-family: GilroyMedium, sans-serif;
+}
+.text-lightt {
+  font-family: GilroyLight, sans-serif;
+}
+.color-black {
+  color: #262F2F;
+}
+.color-dark {
+  color: #16191E;
+}
+.color-orange{
+  color: #D36635;
+}
+.color-white {
+  color: rgba(255, 255, 255, 0.8);
+}
+.color-w-white {
+  color: white;
+}
+.font-size-96 {
+  font-size: 96px;
+}
+.font-size-48 {
+  font-size: 48px;
+}
+.font-size-28 {
+  font-size: 28px;
+}
+.font-size-26 {
+  font-size: 26px;
+}
+.font-size-24 {
+  font-size: 24px;
+}
+.font-size-23 {
+  font-size: 23px;
+}
+.font-size-22 {
+  font-size: 22px;
+}
+.font-size-20 {
+  font-size: 20px;
+}
+.font-size-18 {
+  font-size: 18px;
+}
+.font-size-16 {
+  font-size: 16px;
+}
+.line-height-100 {
+  line-height: 100%;
+}
+.line-height-114 {
+  line-height: 114%;
+}
+.line-height-128 {
+  line-height: 128%;
+}
+.line-height-167 {
+  line-height: 167%;
+}
+.text-align-end {
+  text-align: end;
+}
